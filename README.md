@@ -9,12 +9,14 @@
   </ul>
 </div>
 
-
-- 
 - **EXPERTISE** System Architecture, Full-Stack Development, Automation, Data
 - **CONTACT** Through discord: `henri.ee`
 
 ---
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Experience-9_Years-green?style=flat-square" />
+</p>
 
 ### 🛠️ ‎  ‎  My Tech Stack
  
