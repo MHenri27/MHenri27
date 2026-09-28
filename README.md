@@ -15,7 +15,8 @@
 ---
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Experience-9_Years-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Experience-5+_Years-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-9_Years-green?style=flat-square" />
 </p>
 
 ### 🛠️ ‎  ‎  My Tech Stack
